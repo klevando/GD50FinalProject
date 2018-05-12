@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Gem
+  - Heart
+  - NonConsumableHeart
+  - Spike
+  - Mushroom
+  - Ground
+  - Boss
+  - Projectile
+  - Tilemap
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - 
+  - 
+  - Boss
+  - 
+  - 
+  - TileMap
+  - IgnorePlayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: FarBackground
+    uniqueID: 354343571
+    locked: 0
+  - name: Background
+    uniqueID: 713854477
+    locked: 0
+  - name: Clouds
+    uniqueID: 2557915573
+    locked: 0
+  - name: HelperCharacter
+    uniqueID: 4169181759
+    locked: 0
+  - name: Midground
+    uniqueID: 2506560793
+    locked: 0
+  - name: PhysicsObjects
+    uniqueID: 786420009
+    locked: 0
+  - name: RavanaHead0
+    uniqueID: 3387838807
+    locked: 0
+  - name: RavanaHead1
+    uniqueID: 69817465
+    locked: 0
+  - name: RavanaHead2
+    uniqueID: 1246033983
+    locked: 0
+  - name: RavanaHead3
+    uniqueID: 3056430033
+    locked: 0
+  - name: MainRavana
+    uniqueID: 3151602365
+    locked: 0
+  - name: Player
+    uniqueID: 4204284077
+    locked: 0
+  - name: Foreground
+    uniqueID: 2495219791
+    locked: 0
